@@ -1,0 +1,21 @@
+{
+  "name": "com.borisdombrowski.singleupdate",
+  "version": "1.0.0",
+  "displayName": "Single Update",
+  "description": "Provides classes for optimization of default MonoBehaviour updates",
+  "documentationUrl": "https://github.com/BorisDombrowski/Single-Update/blob/main/README.md",
+  "changelogUrl": "https://github.com/BorisDombrowski/Single-Update",
+  "licensesUrl": "https://github.com/BorisDombrowski/Single-Update/blob/main/LICENSE",
+  "keywords": [
+    "MonoBehavious",
+    "update",
+    "optimization"
+  ],
+  "author": {
+    "name": "Boris Dombrowski",
+    "email": "the.great.b@frameblade.com",
+    "url": "https://github.com/BorisDombrowski/"
+  },
+  "type": "tool",
+  "unity": "2020.1"
+}
